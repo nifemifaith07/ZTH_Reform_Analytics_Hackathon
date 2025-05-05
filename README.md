@@ -6,7 +6,7 @@ This repository contains a data-driven analysis and visualization project focuse
 
 ## 🎯 Objectives
 
-- Analyze historical import and tax data (2019–2024) for key HS codes under Chapter 85.
+- Analyze historical import and tax data (2019) for key HS codes under Chapter 85.
 - Identify high-growth and high-dependency import categories.
 - Model fiscal savings under 20–30% import substitution scenarios.
 - Estimate job creation and industrial growth impacts.
