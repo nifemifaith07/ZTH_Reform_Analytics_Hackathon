@@ -11,7 +11,7 @@ This directory contains all analytical reports, visualizations, and policy brief
 - **Executive_Brief_Import_Reform_Team_Ruby.docx**  
   A concise overview of the project’s goals, key findings, and policy relevance.
 
-- **Insight Report.pdf**  
+- **Insight_Report_Team_Ruby.docx**  
   Comprehensive analysis covering import patterns, tax revenue trends, anomaly detection, and substitution strategy.
 
 - **Presentation Slides.pdf**  
@@ -19,12 +19,6 @@ This directory contains all analytical reports, visualizations, and policy brief
 
 - **Dashboard_Link.txt**  
   Secure link to the interactive Power BI dashboard (shared with specific access permissions).
-
-- **Forecasting_Models.xlsx**  
-  Time-series forecasts of import volumes and tax revenue using ARIMA and exponential smoothing.
-
-- **Innovation_Prioritization.xlsx**  
-  Strategic ₦100B innovation fund allocation by high-impact HS codes.
 
 ---
 
@@ -49,8 +43,12 @@ These reports provide data-driven insights into:
 
 ## 👤 Author
 
-**[Your Full Name]**  
-Hackathon Team Lead | Data Analyst  
-Email: [your.email@example.com]  
-Date: [Submission Date]
+**Amuda Faith Oluwanifemi**  
+Hackathon Team Lead | [Data Analyst](https://github.com/nifemifaith07)
+Email: [nifemifaith07@gmail.com]
+
+**Opayinka Deborah**
+Team Member | Data Analyst
+Email: damilolad557@maol.com
+Date: [06/05/2025]
 
