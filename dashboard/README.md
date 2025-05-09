@@ -20,8 +20,8 @@ This directory contains the final interactive dashboard files developed for the 
 ## 🖼️ Dashboard Images (Static View)
 
 
-![Main Dashboard Overview](images/dashboard_overview.png)  
-![Category-Level Insights](images/category_insights.png)  
+![Introduction](images/Introduction.png)  
+![Import Trends and Forecast](images/Import_Analysis.png)  
 ![Policy Recommendations View](images/policy_recommendations.png)
 
 > 📁 *Place these images in a subfolder named `/images` within the dashboard directory.*
