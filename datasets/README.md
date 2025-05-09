@@ -70,6 +70,12 @@ This directory contains the data files used in the analysis for the **Zion Tech 
 - **ZTH Data Analysis Hackathon.xlsx** – Raw dataset (original format).
 - **clean_data.xlsx** – Cleaned and transformed version of the ZTH dataset.
 - **cet_tariff.xlsx** – Tariff information relevant to HS Code 85 goods.
+- **merged_data.csv** – Contains the cleaned and enriched(cet_tariff) historical import data.
+- **forecasted_imports.csv** – Holds time-series forecast (prophet) results of import volumes.
+- **forecasted_tax_revenue.csv** – Holds time-series forecast (prophet) results of tax revenue.
+- **fund_df.csv** – Shows strategic allocation of a ₦100B innovation fund across high-impact categories.
+- **hs_growth_df.csv** – Summarizes growth trends for top HS codes with high import volume and substitution potential.
 
+Note: All CSV files were generated and exported from the analysis notebook and subsequently loaded into Power BI for modeling and visualization.
 ---
 
