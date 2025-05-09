@@ -26,7 +26,7 @@ In 2019, Nigeria imported over **₦783.8 billion** worth of electrical machiner
    - Cleaned raw import and tariff data for 2019.
    - Focused on HS Code 85: Electrical machinery and equipment.
 
-2. **Analysis & Modeling** (Python - Pandas, Seaborn):
+2. **Analysis & Modeling** (Python - Pandas, Seaborn, Prophet):
    - Identified high-value and fast-growing import items.
    - Modeled fiscal and economic impact of 30% import substitution.
 
