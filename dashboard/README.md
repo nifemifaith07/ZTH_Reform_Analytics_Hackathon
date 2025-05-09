@@ -31,6 +31,7 @@ This directory contains the final interactive dashboard files developed for the 
 - Dashboard visualizations were built from datasets exported from our analysis notebook (see `/reports`).
 - Core themes: import growth analysis, substitution potential, tax gap insights, and strategic recommendations.
 
+https://app.powerbi.com/reportEmbed?reportId=f7a8e3ad-c10f-48e2-a712-3103eb691ed8
 ---
 
 
