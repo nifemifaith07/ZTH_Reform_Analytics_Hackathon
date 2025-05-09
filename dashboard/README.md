@@ -22,16 +22,16 @@ This directory contains the final interactive dashboard files developed for the 
 
 ![Introduction](images/Introduction.png)  
 ![Import Trends and Forecast](images/Import_Analysis.png)  
-![Policy Recommendations View](images/policy_recommendations.png)
-
-> 📁 *Place these images in a subfolder named `/images` within the dashboard directory.*
+![Tax Gaps Analysis](images/Tax_Analysis.png)
+![Growth Trends and Policy Actions](images/Growth_Analysis.png)
+![Substitution and Innovation Planning](images/Innovation.png)
 
 ## Notes
 
-- Dashboard visualizations were built from datasets exported from our analysis notebook (see `/reports`).
-- Core themes: import growth analysis, substitution potential, tax gap insights, and strategic recommendations.
+- Dashboard visualizations were built from datasets exported from our analysis notebook (see `/reports`, `/notebooks`).
+- Core themes: import and growth analysis, substitution potential, tax gap insights, and strategic recommendations.
 
-https://app.powerbi.com/reportEmbed?reportId=f7a8e3ad-c10f-48e2-a712-3103eb691ed8
+[Power BI Report](https://app.powerbi.com/groups/me/reports/f7a8e3ad-c10f-48e2-a712-3103eb691ed8/4ca8491eab339994a331?ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&experience=power-bi)
 ---
 
 
